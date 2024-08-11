@@ -70,7 +70,9 @@ The DAG performs the following tasks:
 
 ## Example Output
 
-![Weather Data Example](path/to/your/image.png)
+![Diagram](https://github.com/Azim1588/Weather_Data_ETL_Pipeline_with_Apache_Airflow/blob/main/Weather_Data_ETL_Pipeline_with_Apache_Airflow/image/Weather_api_diagram%20(1).png?raw=true)
+
+![airflow dag](https://github.com/Azim1588/Weather_Data_ETL_Pipeline_with_Apache_Airflow/blob/main/Weather_Data_ETL_Pipeline_with_Apache_Airflow/image/weather_api_dag.png?raw=true)
 
 ## How to Run
 
@@ -92,16 +94,3 @@ The DAG performs the following tasks:
 - **AWS S3 Upload Issues**: Verify AWS CLI configuration and bucket permissions.
 - **Slack Notifications**: Check Slack webhook configuration and channel permissions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you have improvements or bug fixes.
-
-## Contact
-
-For any questions or feedback, please contact:
-
-- **Email**: your.email@example.com
